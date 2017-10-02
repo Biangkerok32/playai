@@ -1,0 +1,8 @@
+Installation
+------------
+
+ - Clone https://github.com/Jimx-/appinventor-sources and build it
+ - Copy AndroidRuntime.jar and CommonConstants.jar from appinventor-sources/appinventor/build/components to app/libs/appinventor
+ - Run app/libs/compile_appcontainer.sh from the root directory of this project
+ - Set AI_SERVER in AppInvClient.java to the local AppInventor server
+ - Build the app
